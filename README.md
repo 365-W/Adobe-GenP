@@ -2,7 +2,8 @@
 Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0
 December 25, 2022 - Software
 
---- from https://www.cybermania.ws/software/adobe-genp/
+~~ from https://www.cybermania.ws/software/adobe-genp/ ~~
+
 from https://www.cybermania.ws/apps/genp/
 
 ![my Adobe-GenP-3.0](/Adobe-GenP-3.0_Screenshot.PNG?raw=true "Adobe-GenP-3.0")
